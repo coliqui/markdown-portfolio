@@ -3,10 +3,9 @@
 1. All of me
 2. All the things you are
 3. Four
- 
- i. por Miles
- ii. por Coltrane
- iii. por Dizzy
+ 1. por Miles
+ 2. por Coltrane
+ 3. por Dizzy
   
 4. Scrapple from the :apple:
 
