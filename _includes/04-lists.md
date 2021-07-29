@@ -13,8 +13,8 @@
 
 ### Otros tunes 
 
-* A night in tunisia
-* Billie's Bounce
-* Take Five
-  * en Fm
-  * en Cm
+[ ] A night in tunisia
+[ ] Billie's Bounce
+[ ] Take Five
+  [ ] en Fm
+  [ ] en Cm
