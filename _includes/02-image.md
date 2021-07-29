@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Partitura de Doxy](https://github.com/coliqui/coliqui.github.io/_images/doxy_tenor.png)
