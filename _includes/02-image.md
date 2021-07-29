@@ -1,1 +1,1 @@
-![Partitura de Doxy](https://github.com/coliqui/coliqui.github.io/blob/master/_images/doxy_tenor.png)
+![Partitura de Doxy](https://raw.githubusercontent.com/coliqui/coliqui.github.io/master/_images/doxy_tenor.png)
