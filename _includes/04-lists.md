@@ -1,4 +1,4 @@
-##Partituras
+## Partituras
 
 1. All of me
 2. All the things you are
@@ -11,7 +11,7 @@
 
 :+1: :mate:
 
-###Otros tunes 
+### Otros tunes 
 
 * A night in tunisia
 * Billie's Bounce
